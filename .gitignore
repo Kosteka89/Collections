@@ -1,0 +1,34 @@
+text
+# IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+target/
+.DS_Store
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Mac
+**/.DS
